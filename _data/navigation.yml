@@ -8,15 +8,9 @@ main:
 
   - title: "Öğretim"
     url: /teaching/    
-    
-  - title: "Portfolyo"
-    url: /portfolio/
         
   - title: "Blog Yazıları"
     url: /year-archive/
     
   - title: "Özgeçmiş"
     url: /cv/
-    
-  - title: "Kılavuz"
-    url: /markdown/
