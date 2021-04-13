@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Yayınlar"
 permalink: /publications/
 author_profile: true
 ---
